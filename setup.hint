@@ -1,0 +1,4 @@
+category: Graphics KDE
+requires: libgcc1 libstdc++6 libstreamanalyzer0 libtiff5
+sdesc: "Strigi kdegraphics analyzers"
+ldesc: "KDE graphics suite"
