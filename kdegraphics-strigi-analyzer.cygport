@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kdegraphics-strigi-analyzer"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="Strigi kdegraphics analyzers"
+DESCRIPTION="Part of the KDE graphics suite"
